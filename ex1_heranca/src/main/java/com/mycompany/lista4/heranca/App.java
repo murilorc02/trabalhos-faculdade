@@ -1,0 +1,9 @@
+package com.mycompany.lista4.heranca;
+/**
+ * @author Diegoo
+ */
+public class App {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }   
+}
